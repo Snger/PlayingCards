@@ -13,6 +13,9 @@ public class PlayCards {
 		this.players = new ArrayList<Player>();
 	}
 	/*
+	 * TODO translate how it work
+	 * @see https://en.wikipedia.org/wiki/Standard_52-card_deck
+	 * @see https://en.wikipedia.org/wiki/Playing_card
 	 * 玩法：
 	 * 1.创建一副扑克牌，不考虑大小王
 	 * 2.创建两名玩家，玩家至少要有ID、姓名、手牌等属性，手牌为扑克牌的集合
