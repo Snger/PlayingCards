@@ -1,5 +1,5 @@
 # PlayingCards
-A simple (playing cards game)[https://en.wikipedia.org/wiki/Playing_card] writed by Java.
+A simple [playing cards game](https://en.wikipedia.org/wiki/Playing_card) writed by Java.
 
 ## TODO
 * language package. @Card.java
